@@ -1,1 +1,3 @@
 # WebPractice
+
+Just for fun! :)
